@@ -1,0 +1,9 @@
+/.vs
+/auth.basic/bin
+/auth.basic/obj
+/auth.hmac/bin
+/auth.hmac/obj
+/auth.jwt/bin
+/auth.jwt/obj
+/auth.models/bin
+/auth.models/obj
